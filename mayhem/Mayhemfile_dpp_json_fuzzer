@@ -1,0 +1,9 @@
+project: dpp
+target: dpp_json_fuzzer
+cmds:
+  - cmd: /mayhem/dpp_json_fuzzer
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/dpp_json_fuzzer.dict
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/dpp_json_fuzzer/testsuite

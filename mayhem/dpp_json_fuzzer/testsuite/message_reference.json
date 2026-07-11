@@ -1,0 +1,1 @@
+{"id":"3","channel_id":"2","content":"reply","type":19,"message_reference":{"message_id":"1","channel_id":"2","guild_id":"888000000000000789"},"referenced_message":{"id":"1","channel_id":"2","content":"orig","type":0,"author":{"id":"7","username":"bob"}},"mentions":[{"id":"7","username":"bob"}]}

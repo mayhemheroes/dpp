@@ -1,0 +1,1 @@
+{"id":"1","channel_id":"2","content":"see embed","type":0,"embeds":[{"title":"t","description":"d","url":"https://example.com","color":16711680,"fields":[{"name":"f","value":"v","inline":true}],"footer":{"text":"ft"},"image":{"url":"https://example.com/i.png"}}],"attachments":[],"mentions":[]}
